@@ -1,0 +1,9 @@
+Sample output for count of files which are grouped by creation month
+
+given path: D:\photos\Diwali2K18 (example)
+output:
+201811
+No.of files: 204
+202010
+No.of files: 1
+Total Count of files in directory:205
