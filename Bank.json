@@ -1,0 +1,16 @@
+{
+  "Bank":[  
+    {
+     "account num": "123456789123",
+      "ifsc code": "SBIN0005943" 
+   
+    },
+    {
+    
+    "account num": "98765432101",
+      "ifsc code": "SBIN0005942" 
+   
+    }
+   ]
+  
+}
